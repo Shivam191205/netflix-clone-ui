@@ -1,20 +1,47 @@
-# 🎬 Netflix Clone
+# 🎬 Netflix Clone (HTML & CSS)
 
-A simple **Netflix Clone** built using **HTML and CSS**.  
-This project replicates the basic layout and design of the Netflix homepage — made for learning frontend web development.
+This is a **Netflix homepage clone** built using only **HTML** and **CSS**.  
+It’s a simple front-end project made for **learning and portfolio purposes** — no JavaScript or backend used.
 
-## 🚀 Demo
-🔗 **Live Demo:** [Click Here](https://Shivam191205.github.io/netflix-clone-ui/)
+
+## 🔗 **Live Demo**
+[Click Here](https://shivam191205.github.io/netflix-clone-ui/)
 
 
 ## 🧠 Features
-- 🎨 Responsive Netflix-style homepage layout  
-- 📱 Works across desktop and mobile devices  
-- 🖼️ Beautiful UI with images, posters, and gradients  
-- ⚡ Fast and lightweight (pure HTML & CSS)
+- Responsive homepage design (Netflix-inspired)
+- Hero section with background overlay
+- Multiple content sections
+- FAQ layout
+- Custom buttons and typography
+- Disclaimer added for educational use
 
-## 🛠️ Technologies Used
+
+## 🛠️ Built With
 - **HTML5**
 - **CSS3**
 
-## 📂 Project Structure
+
+## 📁 Folder Structure
+Netflix-clone-ui/
+│
+├── index.html
+├── style.css
+├── images/
+│ ├── tv.png
+│ ├── kids.png
+│ ├── stra.jpg
+│ └── ...
+└── videos/
+├── video-tv-in-0819.mp4
+└── video-devices-in.mp4
+
+## ⚠️ Disclaimer
+> This project is made **only for educational purposes** and is **not affiliated with Netflix** in any way.  
+> It does **not collect any personal data** or include any login functionality.
+
+
+## 💡 Author
+**Shivam Nagpal**  
+📧 shivamnagpal603@gmail.com
+⭐ Don’t forget to star the repo if you liked it!
